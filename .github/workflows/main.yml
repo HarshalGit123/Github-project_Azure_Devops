@@ -17,5 +17,5 @@ jobs:
           uses: Azure/pipelines@v1
           with:
             azure-devops-project-url: https://dev.azure.com/Harshal3007/DevProject307
-            azure-pipeline-name: 'Gitaction'
+            azure-pipeline-name: 'HarshalGit123.Github-project_Azure_Devops'
             azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
